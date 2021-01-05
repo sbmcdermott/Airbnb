@@ -22,7 +22,28 @@
 
 ## Insights
 
-#### Hosts looking to expand in the short term rental market are able to view the characteristics of listings based on the number of guests accommodated to evaluate an investment decision. ![Listings Per Guests](images_for_prez/listings_per_guest)
+#### 1 ) Expansion
+##### Hosts looking to expand in the short term rental market are able to view the characteristics of listings based on the number of guests accommodated to evaluate an investment decision.
+
+![Listings Per Guests](images_for_prez/listings_per_guest.PNG)
+
+##### From this bar chart, hosts are able to select a number of guests to view characteristics of these specific listings and their hosts. Hosts will be able to answer: What level of privacy do similar properties provide? What level of status have hosts of similar properties achieved?
+
+![Listing Characteristics](images_for_prez/listing_characteristics.PNG)
+
+#### 2 ) Performance
+###### Current hosts will be able to view similar properties nightly price and how often they are booked. The line charts below show six months of data for average nightly price and occupancy rate. The filters on the right side of the image have been used to look at listings with a 4.0 star rating or higher and host 10 guests.
+
+![Booking Performance](images_for_prez/performance.PNG)
+
+###### Nightly price and occupancy rate can be used to determine an estimated booked earnings similar properties are generating. The bar chart below shows the earnings produced from the average property with 4.0+ stars and 10 guests for the next six months.
+
+![Booked Earnings](images_for_prez/booked_earnings.PNG)
+
+#### 3 ) Pricing Strategy
+###### The pricing calendar gives hosts detailed pricing information for upcoming weekdays and weekends for the next six months. By hovering over specific dates hosts can view the average price for that night along with the 25th and 75th percentiles.
+
+![Pricing Calendar](images_for_prez/pricing_calendar.PNG)
 
 ## Technologies
 #### I developed this tool with the following technologies:
