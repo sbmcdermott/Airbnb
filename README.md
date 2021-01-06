@@ -1,5 +1,5 @@
 # AnalyzeBNB
-### A Market Analysis and Pricing Tool for Airbnb Hosts. Check out my finished presentation on Tableau Public [here](https://public.tableau.com/profile/sarah.beth.ivester#!/vizhome/analyzebnb/analyzebnb).
+### A Market Analysis and Pricing Tool for Airbnb Hosts. Check out my finished presentation on Tableau Public [here](https://public.tableau.com/profile/sarah.beth.ivester#!/vizhome/analyzebnb_fullview/analyzebnb?publish=yes).
 
 ## Description
 #### This tool allows hosts to retrieve custom insights on similar listings in the Nashville, TN area. Webscraped data directly from Airbnb's site empowers hosts to better understand the market they operate in and how to appropriately value their listing.  
